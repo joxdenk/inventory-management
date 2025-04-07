@@ -25,6 +25,17 @@ Join our [Discord community](https://discord.com/channels/1070200085440376872/12
 - **AWS Amplify**
 - **AWS S3**
 
+- ## 🤝 Contributing
+
+We welcome contributions! Please:
+
+- Fork the repo
+- Create a new branch
+- Make your changes
+- Submit a pull request
+
+
+
 ## Resources and Links
 
 ### Image Files
